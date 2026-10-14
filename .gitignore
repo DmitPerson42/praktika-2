@@ -1,0 +1,16 @@
+# Данные скачиваются ноутбуками при запуске, в репозиторий не кладутся.
+data/
+*.zip
+*.tar.gz
+
+# Служебное
+.ipynb_checkpoints/
+~$*
+*.log
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
